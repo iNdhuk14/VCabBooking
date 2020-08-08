@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.div{
+	text-align:center;
+	width:200px;
+	height:100px;
+}
+.body{
+		background: url('../img/bg.jpg') no-repeat !important;
+	    background-attachment: fixed; 
+	    background-size: cover;
+}
